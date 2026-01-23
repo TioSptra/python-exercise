@@ -1,4 +1,10 @@
-# Tujuan Latihan:
+# Latihan Python Exercise:
+
+Tujuan: Mengukur keterampilan untuk pembagian tugas.  
+Deadline: 30 Januari 2026.  
+_Bila memerlukan waktu tambahan, mohon menghubungi PIC._
+
+# Objektif:
 
 1. Membuat program untuk membandingkan dua dokumen Word: Dokumen A dan Dokumen B.
 2. Mencari perbedaan antara kedua dokumen berdasarkan kriteria yang diberikan.
@@ -9,7 +15,7 @@
 1. Clone dan buat repository baru.
 2. Gunakan bahasa pemrograman Python.
 3. Boleh menggunakan AI.
-4. Kerjakan semampunya. Jika ada komponen yang tidak memungkinkan untuk dikerjakan, tuliskan alasannya di SUMMARY.md.
+4. Kerjakan semampunya. Jika ada komponen yang tidak berhasil dikerjakan, tuliskan alasannya di SUMMARY.md.
 5. Tuliskan ringkasan eksekutif di SUMMARY.md yang mencakup pendekatan yang dipilih, tantangan yang dihadapi, dan solusi yang diterapkan.
 6. Commit hasil akhir dan bagikan tautan repository.
 
